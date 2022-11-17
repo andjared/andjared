@@ -3,10 +3,10 @@
       <img src="https://media.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif" width="100" />
 
   <div class="badges">
-      <a href="https://www.linkedin.com/in/andja-zelenbaba-464673134/">
+      <a href="https://www.linkedin.com/in/andja-zelenbaba-464673134/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
-       <a href="https://andjared.github.io/portfolio/">
+       <a href="https://andjared.github.io/portfolio/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=portfolio&logoColor=white" />
       </a>
   </div>
