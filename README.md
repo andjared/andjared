@@ -23,9 +23,9 @@
 
 :woman_technologist: About Me :
 
-- :telescope: Self-taught front end developer.
+- :telescope: Full-stack web developer.
 
-- :seedling: Specializing in React.js
+- :seedling: Specializing in React & Node.js
 
 - :zap: In my free time, I spend time with my daughter and my husband.
 
